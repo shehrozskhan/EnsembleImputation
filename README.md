@@ -2,15 +2,15 @@
 
 The file *ensemble.java* is the main file to run.
 
-The input data file name can be added on this line
+The input data file name can be added on this line, 
 *private static String str="iris";*
 
-The path of the input arff file can be set from this line
+The path of the input arff file can be set from this line, 
 *private static String path = "//media//Data//workspace//Missing//data//";*
 
 The directory 'data' contains the common datasets used in our paper.
 
-The missing ratio can be changed from this line
+The missing ratio can be changed from this line,
 *int [] missingRatio= new int []{5,10,15,20,25,30};//Percentage of missing attribute values*
 		
 The output file will be generated with the name *inputfile-output.csv*
