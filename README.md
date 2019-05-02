@@ -20,4 +20,5 @@ The package Weka-3.9.2 is required to run this program (use weka.jar, available 
 This code is tested on IntelliJ Idea 2019.1.1
 
 If you use this software for your research, then please cite the following paper
+
 **Khan, S.S., Ahmad, A. and Mihailidis, A., 2018. Bootstrapping and Multiple Imputation Ensemble Approaches for Missing Data. arXiv preprint arXiv:1802.00154.**
